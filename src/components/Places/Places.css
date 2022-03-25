@@ -3,7 +3,9 @@
 }
 .place-card-img{
     padding: 10px;
+    height: 250px;
 }
 .place-card img{
     border-radius: 10px;
+    height: 100%;
 }

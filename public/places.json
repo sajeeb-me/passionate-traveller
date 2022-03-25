@@ -8,49 +8,49 @@
     {
         "id": 2,
         "name": "Paris (France)",
-        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "img": "https://images.unsplash.com/photo-1526893381913-e311045b8064?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
         "cost": 1200
     },
     {
         "id": 3,
         "name": "Barcelona (Spain)",
-        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "img": "https://images.unsplash.com/photo-1557700055-b354bee54b69?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
         "cost": 1200
     },
     {
         "id": 4,
         "name": "Las Vegas (US)",
-        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "img": "https://images.unsplash.com/photo-1585299348459-dca4b2d75690?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
         "cost": 1200
     },
     {
         "id": 5,
         "name": "Beijing (China)",
-        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "img": "https://images.unsplash.com/photo-1644121278212-c4e2939bd0e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
         "cost": 1200
     },
     {
         "id": 6,
         "name": "Colosseum (Italy)",
-        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "img": "https://images.unsplash.com/photo-1575487283542-d1fd6f1b3d6c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
         "cost": 1200
     },
     {
         "id": 7,
         "name": "Istanbul (Turkey)",
-        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "img": "https://images.unsplash.com/photo-1592632132538-a901188c014f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=542&q=80",
         "cost": 1200
     },
     {
         "id": 8,
         "name": "Tulum (Mexico)",
-        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "img": "https://images.unsplash.com/photo-1568635454645-b0da21651742?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=566&q=80",
         "cost": 1200
     },
     {
         "id": 9,
         "name": "Chiang Rai (Thailand)",
-        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "img": "https://images.unsplash.com/photo-1569155829632-148eea0844af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=556&q=80",
         "cost": 1200
     }
 ]
