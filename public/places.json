@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Taj Mahal (India)",
+        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "cost": 1200
+    },
+    {
+        "id": 2,
+        "name": "Paris (France)",
+        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "cost": 1200
+    },
+    {
+        "id": 3,
+        "name": "Barcelona (Spain)",
+        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "cost": 1200
+    },
+    {
+        "id": 4,
+        "name": "Las Vegas Strip (United States)",
+        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "cost": 1200
+    },
+    {
+        "id": 5,
+        "name": "Beijing (China)",
+        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "cost": 1200
+    },
+    {
+        "id": 6,
+        "name": "Colosseum (Italy)",
+        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "cost": 1200
+    },
+    {
+        "id": 7,
+        "name": "Istanbul (Turkey)",
+        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "cost": 1200
+    },
+    {
+        "id": 8,
+        "name": "Tulum (Mexico)",
+        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "cost": 1200
+    },
+    {
+        "id": 9,
+        "name": "Chiang Rai (Thailand)",
+        "img": "https://images.unsplash.com/photo-1598369267975-0eb3f5a57412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+        "cost": 1200
+    }
+]
