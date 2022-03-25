@@ -27,7 +27,8 @@ const Body = () => {
         setList([]);
     }
     const getBest1 = () => {
-        // const bestArray = lists[Math.floor(Math.random() * lists.length)];
+        const bestArray = lists[Math.floor(Math.random() * lists.length)];
+        setList([bestArray])
     }
     return (
         <div className='country-container'>
