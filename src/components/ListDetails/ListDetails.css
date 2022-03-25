@@ -1,0 +1,7 @@
+.list-details-img{
+    width: 40px;
+}
+.list-details-img img {
+    width: 100%;
+    border-radius: 100%;
+}
