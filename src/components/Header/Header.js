@@ -7,7 +7,7 @@ const Header = () => {
             <div>
                 <h3>Passionate Traveler</h3>
             </div>
-            <div>
+            <div className='d-none d-md-block'>
                 <a href="/home">Home</a>
                 <a href="/explore">Explore</a>
                 <a href="/book">Book now</a>

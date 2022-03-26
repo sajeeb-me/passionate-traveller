@@ -2,8 +2,7 @@ import React from 'react';
 import ListDetails from '../ListDetails/ListDetails';
 import './WishList.css'
 
-const WishList = ({ lists, chooseAgain, getBest1, bestArray }) => {
-    console.log(bestArray)
+const WishList = ({ lists, chooseAgain, getBest1 }) => {
     return (
         <div className='wish-list shadow-sm p-3'>
             <h3 className='text-center text-primary'>Wish List</h3>
