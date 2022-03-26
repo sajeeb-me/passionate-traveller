@@ -2,9 +2,9 @@
 
 This project is for all `Passionate Travellers` who are always `Confused` which place will be the Best option to Travel.
 
-## [Live Site Link](https://passionate-traveller.netlify.app)
+## [Live Site Link](https://passionate-traveller.netlify.app\)
 
-Click the link to view my live site: [https://passionate-traveller.netlify.app](https://passionate-traveller.netlify.app)
+Click the link to view my live site: [https://passionate-traveller.netlify.app](https://passionate-traveller.netlify.app\)
 
 ## GuidLines
 ### `Navbar`
