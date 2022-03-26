@@ -3,7 +3,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <nav className='navbar'>
+        <nav className='navbar bg-primary'>
             <div>
                 <h3>Passionate Traveler</h3>
             </div>
