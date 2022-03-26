@@ -27,8 +27,13 @@ const Body = () => {
         setList([]);
     }
     const getBest1 = () => {
-        const bestArray = lists[Math.floor(Math.random() * lists.length)];
-        setList([bestArray])
+        if (lists.length >= 1) {
+            const bestArray = lists[Math.floor(Math.random() * lists.length)];
+            setList([bestArray])
+        }
+        else {
+            alert('Please, select at least 1 item to your Wish list!')
+        }
     }
     return (
         <div className='country-container'>

@@ -5,7 +5,7 @@ import './WishList.css'
 const WishList = ({ lists, chooseAgain, getBest1 }) => {
     return (
         <div className='wish-list shadow-sm p-3'>
-            <h3 className='text-center text-primary'>Wish List</h3>
+            <h3>Wish List</h3>
             <div>
                 {
                     lists.map(list => <ListDetails key={list.id} list={list} />)
