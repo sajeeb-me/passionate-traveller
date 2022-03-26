@@ -49,7 +49,7 @@ const Body = () => {
                     </div>
                 </div>
                 {/* wishlist */}
-                <div className="selected-countries col-12 col-md-3 order-1 order-md-2">
+                <div className="selected-countries py-4 col-12 col-md-3 order-1 order-md-2">
                     <WishList lists={lists} chooseAgain={chooseAgain} getBest1={getBest1} />
                 </div>
             </div>
